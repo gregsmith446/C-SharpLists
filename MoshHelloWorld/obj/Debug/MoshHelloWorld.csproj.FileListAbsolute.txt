@@ -1,0 +1,7 @@
+C:\Users\gregs\Desktop\CD\MoshHelloWorld\MoshHelloWorld\bin\Debug\MoshHelloWorld.exe.config
+C:\Users\gregs\Desktop\CD\MoshHelloWorld\MoshHelloWorld\bin\Debug\MoshHelloWorld.exe
+C:\Users\gregs\Desktop\CD\MoshHelloWorld\MoshHelloWorld\bin\Debug\MoshHelloWorld.pdb
+C:\Users\gregs\Desktop\CD\MoshHelloWorld\MoshHelloWorld\obj\Debug\MoshHelloWorld.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\MoshHelloWorld\MoshHelloWorld\obj\Debug\MoshHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\MoshHelloWorld\MoshHelloWorld\obj\Debug\MoshHelloWorld.exe
+C:\Users\gregs\Desktop\CD\MoshHelloWorld\MoshHelloWorld\obj\Debug\MoshHelloWorld.pdb

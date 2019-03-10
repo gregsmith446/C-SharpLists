@@ -1,4 +1,3 @@
 # C-SharpLists
-Lists and List Methods
 
-Creating Lists in C#
+Creating Lists in C# and Experimenting with their methods.
